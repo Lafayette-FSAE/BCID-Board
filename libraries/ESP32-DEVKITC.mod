@@ -1,0 +1,353 @@
+PCBNEW-LibModule-V1  
+# encoding utf-8
+Units mm
+$INDEX
+XCVR_ESP32-DEVKITC
+$EndINDEX
+$MODULE XCVR_ESP32-DEVKITC
+Po 0 0 0 15 00000000 00000000 ~~
+Li XCVR_ESP32-DEVKITC
+Cd 
+Sc 00000000
+At STD
+Op 0 0 0
+.SolderMask 0
+.SolderPaste 0
+T0 -6.16442 -29.456 1.00039 1.00039 0 0.05 N V 21 "XCVR_ESP32-DEVKITC"
+T1 -9.63628 29.1445 1.00105 1.00105 0 0.05 N V 21 "VAL**"
+DS 13.95 -20.7 13.95 27.5 0.127 27
+DS 13.95 27.5 -13.95 27.5 0.127 27
+DS -13.95 27.5 -13.95 -20.7 0.127 27
+DS -13.95 27.5 -13.95 -20.7 0.127 21
+DS 13.95 -20.7 13.95 27.5 0.127 21
+DS 13.95 27.5 -13.95 27.5 0.127 21
+DS 14.2 -20.95 14.2 27.75 0.05 26
+DS 14.2 27.75 -14.2 27.75 0.05 26
+DS -14.2 27.75 -14.2 -20.95 0.05 26
+DC -14.6 -19.65 -14.46 -19.65 0.28 21
+DC -14.6 -19.65 -14.46 -19.65 0.28 27
+DS -9 -27.5 9 -27.5 0.127 21
+DS 9 -27.5 9 -20.7 0.127 21
+DS -9 -27.5 -9 -20.7 0.127 21
+DS -13.95 -20.7 -9 -20.7 0.127 21
+DS 13.95 -20.7 9 -20.7 0.127 21
+DS -9 -27.5 9 -27.5 0.127 27
+DS 9 -27.5 9 -20.7 0.127 27
+DS -9 -27.5 -9 -20.7 0.127 27
+DS -13.95 -20.7 -9 -20.7 0.127 27
+DS 13.95 -20.7 9 -20.7 0.127 27
+DS -14.2 -20.95 -9.25 -20.95 0.05 26
+DS -9.25 -20.95 -9.25 -27.75 0.05 26
+DS -9.25 -27.75 9.25 -27.75 0.05 26
+DS 9.25 -27.75 9.25 -20.95 0.05 26
+DS 9.25 -20.95 14.2 -20.95 0.05 26
+DP 0 0 0 0 4 0 26
+Dl -8.93 -27.43
+Dl 8.93 -27.43
+Dl 8.93 -20.76
+Dl -8.93 -20.76
+$PAD
+Sh "1" R 1.56 1.56 0 0 0
+Dr 1.04 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -12.7 -19.46
+$EndPAD
+$PAD
+Sh "2" C 1.56 1.56 0 0 0
+Dr 1.04 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -12.7 -16.92
+$EndPAD
+$PAD
+Sh "19" C 1.56 1.56 0 0 0
+Dr 1.04 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -12.7 26.26
+$EndPAD
+$PAD
+Sh "3" C 1.56 1.56 0 0 0
+Dr 1.04 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -12.7 -14.38
+$EndPAD
+$PAD
+Sh "4" C 1.56 1.56 0 0 0
+Dr 1.04 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -12.7 -11.84
+$EndPAD
+$PAD
+Sh "5" C 1.56 1.56 0 0 0
+Dr 1.04 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -12.7 -9.3
+$EndPAD
+$PAD
+Sh "6" C 1.56 1.56 0 0 0
+Dr 1.04 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -12.7 -6.76
+$EndPAD
+$PAD
+Sh "7" C 1.56 1.56 0 0 0
+Dr 1.04 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -12.7 -4.22
+$EndPAD
+$PAD
+Sh "8" C 1.56 1.56 0 0 0
+Dr 1.04 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -12.7 -1.68
+$EndPAD
+$PAD
+Sh "9" C 1.56 1.56 0 0 0
+Dr 1.04 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -12.7 0.86
+$EndPAD
+$PAD
+Sh "10" C 1.56 1.56 0 0 0
+Dr 1.04 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -12.7 3.4
+$EndPAD
+$PAD
+Sh "11" C 1.56 1.56 0 0 0
+Dr 1.04 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -12.7 5.94
+$EndPAD
+$PAD
+Sh "12" C 1.56 1.56 0 0 0
+Dr 1.04 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -12.7 8.48
+$EndPAD
+$PAD
+Sh "13" C 1.56 1.56 0 0 0
+Dr 1.04 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -12.7 11.02
+$EndPAD
+$PAD
+Sh "14" C 1.56 1.56 0 0 0
+Dr 1.04 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -12.7 13.56
+$EndPAD
+$PAD
+Sh "15" C 1.56 1.56 0 0 0
+Dr 1.04 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -12.7 16.1
+$EndPAD
+$PAD
+Sh "16" C 1.56 1.56 0 0 0
+Dr 1.04 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -12.7 18.64
+$EndPAD
+$PAD
+Sh "17" C 1.56 1.56 0 0 0
+Dr 1.04 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -12.7 21.18
+$EndPAD
+$PAD
+Sh "18" C 1.56 1.56 0 0 0
+Dr 1.04 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po -12.7 23.72
+$EndPAD
+$PAD
+Sh "20" C 1.56 1.56 0 0 1800
+Dr 1.04 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 12.7 26.26
+$EndPAD
+$PAD
+Sh "21" C 1.56 1.56 0 0 1800
+Dr 1.04 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 12.7 23.72
+$EndPAD
+$PAD
+Sh "22" C 1.56 1.56 0 0 1800
+Dr 1.04 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 12.7 21.18
+$EndPAD
+$PAD
+Sh "23" C 1.56 1.56 0 0 1800
+Dr 1.04 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 12.7 18.64
+$EndPAD
+$PAD
+Sh "24" C 1.56 1.56 0 0 1800
+Dr 1.04 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 12.7 16.1
+$EndPAD
+$PAD
+Sh "25" C 1.56 1.56 0 0 1800
+Dr 1.04 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 12.7 13.56
+$EndPAD
+$PAD
+Sh "26" C 1.56 1.56 0 0 1800
+Dr 1.04 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 12.7 11.02
+$EndPAD
+$PAD
+Sh "27" C 1.56 1.56 0 0 1800
+Dr 1.04 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 12.7 8.48
+$EndPAD
+$PAD
+Sh "28" C 1.56 1.56 0 0 1800
+Dr 1.04 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 12.7 5.94
+$EndPAD
+$PAD
+Sh "29" C 1.56 1.56 0 0 1800
+Dr 1.04 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 12.7 3.4
+$EndPAD
+$PAD
+Sh "30" C 1.56 1.56 0 0 1800
+Dr 1.04 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 12.7 0.86
+$EndPAD
+$PAD
+Sh "31" C 1.56 1.56 0 0 1800
+Dr 1.04 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 12.7 -1.68
+$EndPAD
+$PAD
+Sh "32" C 1.56 1.56 0 0 1800
+Dr 1.04 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 12.7 -4.22
+$EndPAD
+$PAD
+Sh "33" C 1.56 1.56 0 0 1800
+Dr 1.04 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 12.7 -6.76
+$EndPAD
+$PAD
+Sh "34" C 1.56 1.56 0 0 1800
+Dr 1.04 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 12.7 -9.3
+$EndPAD
+$PAD
+Sh "35" C 1.56 1.56 0 0 1800
+Dr 1.04 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 12.7 -11.84
+$EndPAD
+$PAD
+Sh "36" C 1.56 1.56 0 0 1800
+Dr 1.04 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 12.7 -14.38
+$EndPAD
+$PAD
+Sh "37" C 1.56 1.56 0 0 1800
+Dr 1.04 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 12.7 -16.92
+$EndPAD
+$PAD
+Sh "38" C 1.56 1.56 0 0 1800
+Dr 1.04 0 0
+At STD N 00C0FFFF
+.SolderMask 0
+Ne 0 ""
+Po 12.7 -19.46
+$EndPAD
+$EndMODULE XCVR_ESP32-DEVKITC

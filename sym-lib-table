@@ -1,3 +1,3 @@
 (sym_lib_table
-  (lib (name Active-Load-2-rescue)(type Legacy)(uri "${KIPRJMOD}/Active Load 2-rescue.lib")(options "")(descr ""))
+  (lib (name Active-Load-2,5-rescue)(type Legacy)(uri "${KIPRJMOD}/Active Load 2,5-rescue.lib")(options "")(descr ""))
 )
